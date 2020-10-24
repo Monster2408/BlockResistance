@@ -1,0 +1,9 @@
+name: BlockResistance
+version: ${project.version}
+main: xyz.mlserver.blockresistance.blockresistance.BlockResistance
+api-version: 1.13
+prefix: BlockResistance
+
+commands:
+    resistance:
+        description: NO
